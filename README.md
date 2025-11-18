@@ -3,7 +3,33 @@
 
 Product Owner focada em transformar contexto em clareza, backlog em estratégia e entregas em valor real para pessoas e organizações.
 
+## 📈 Evolução das contribuições
+
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=isamariaproduct&area=true&hide_border=false)
+
 ---
+<!-- Dados completos de repositórios -->
+<p align="center">
+  <!-- Estatísticas gerais dos repositórios -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isamariaproduct&theme=github_dark" width="42%" />
+</p>
+
+<p align="center">
+  <!-- Atividade por repositório -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isamariaproduct&theme=github_dark" width="42%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isamariaproduct&theme=github_dark&utcOffset=3" width="42%" />
+</p>
+
+<p align="center">
+  <!-- Resumo geral -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isamariaproduct&theme=github_dark" width="90%" />
+</p>
+
+
+<p align="center">
+
+  <!-- Estatísticas avançadas -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isamariaproduct&theme=tokyonight" />
 
 ## 📊 Estatísticas em tempo real do GitHub
 
@@ -18,30 +44,7 @@ Product Owner focada em transformar contexto em clareza, backlog em estratégia 
 
 ---
 
-## 📈 Evolução das contribuições
 
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=isamariaproduct&area=true&hide_border=false)
-
----
-<p align="center">
-
-  <!-- Repositórios em Destaque -->
-  <a href="https://github.com/Projetos_Transparencia?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=projetos_transparenciat&theme=tokyonight&hide_border=false" />
-  </a>
-
-  <a href="https://github.com/hamaraisadev?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=hamaraisadev&theme=tokyonight&hide_border=false" />
-  </a>
-
-</p>
-
----
-
-<p align="center">
-
-  <!-- Estatísticas avançadas -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isamariaproduct&theme=tokyonight" />
 
 
 
