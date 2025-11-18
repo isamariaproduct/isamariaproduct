@@ -1,127 +1,148 @@
 <div align="center">
 
-# 👋 Oi! Eu sou a **Isa Maria**
-### Product Owner • Strategy & Delivery • Criando produtos que fazem sentido 🚀
+# 👋 Olá, eu sou a **Isa Maria**  
+### Product Owner | Estratégia de Produto | Liderança de Times | Construindo Soluções com Propósito 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=4DA8FF&center=true&vCenter=true&width=600&lines=Organizando+o+caos+desde+sempre;Transformando+ideias+em+produtos;Backlogs+felizes+%2F+Sprints+organizadas;Product+Owner+com+alma+de+design+e+cora%C3%A7%C3%A3o+de+estrategista" />
-
-<br><br>
-
-<!-- MASCOTE ANIMADO -->
-<svg width="200" height="200" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
-      <stop offset="0%" stop-color="#4DA8FF"/>
-      <stop offset="100%" stop-color="#0A1B2E"/>
-    </radialGradient>
-    <linearGradient id="rocketGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#B0CFFF"/>
-    </linearGradient>
-  </defs>
-
-  <circle cx="105" cy="105" r="100" fill="url(#bgGrad)" />
-
-  <!-- Foguete -->
-  <path d="M105 40 C125 70 135 100 135 130 C135 150 120 165 105 170 C90 165 75 150 75 130 C75 100 85 70 105 40 Z"
-        fill="url(#rocketGrad)" stroke="#0A1B2E" stroke-width="2"/>
-  <circle cx="105" cy="95" r="12" fill="#4DA8FF" stroke="#0A1B2E" stroke-width="2"/>
-
-  <!-- Chama animada -->
-  <path d="M105 170 C100 185 100 195 105 205 C110 195 110 185 105 170 Z"
-        fill="#FFB74D">
-    <animate attributeName="d"
-             dur="1s"
-             repeatCount="indefinite"
-             values="
-             M105 170 C100 185 100 195 105 205 C110 195 110 185 105 170 Z;
-             M105 172 C98 187 102 198 105 205 C108 198 112 187 105 172 Z;
-             M105 170 C100 185 100 195 105 205 C110 195 110 185 105 170 Z" />
-  </path>
-
-  <text x="105" y="28" text-anchor="middle" font-size="12" fill="#E6E6E6"
-        font-family="Verdana, Geneva, Tahoma, sans-serif">
-    product rocket pilot
-  </text>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=4DA8FF&center=true&vCenter=true&width=650&lines=Vis%C3%A3o+clara.+Entregas+reais.+Impacto+mensur%C3%A1vel.;Produto+com+prop%C3%B3sito+e+intelig%C3%AAncia.;Transformando+desafios+em+solu%C3%A7%C3%B5es+sustent%C3%A1veis.;Product+Owner+que+pensa+estrat%C3%A9gia+e+executa+com+rigor." />
 
 <br>
 
-### 💙 “Produtos incríveis nascem de conversas sinceras, problemas reais e entregas contínuas.”
+<!-- MASCOTE PROFISSIONAL -->
+<svg width="190" height="190" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgElite" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#3A8DFF"/>
+      <stop offset="100%" stop-color="#0A1B2E"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="105" cy="105" r="95" fill="url(#bgElite)" />
+
+  <!-- Ícone minimalista: seta de crescimento -->
+  <polyline points="60,130 105,80 150,110"
+            fill="none"
+            stroke="#fff"
+            stroke-width="8"
+            stroke-linecap="round"
+            stroke-linejoin="round">
+    <animate attributeName="stroke-width"
+             dur="2s"
+             values="6;8;6"
+             repeatCount="indefinite" />
+  </polyline>
+
+  <circle cx="105" cy="80" r="10" fill="#4DA8FF" stroke="#fff" stroke-width="3"></circle>
+
+  <text x="105" y="30" text-anchor="middle" font-size="14" fill="#ECECEC"
+        font-family="Verdana">
+    Product Leadership
+  </text>
+</svg>
 
 </div>
 
 ---
 
-## 🌟 Sobre mim
+## 📌 Sobre mim
 
-Sou uma Product Owner apaixonada por transformar **pacotes de caos** em **produtos organizados e estratégicos**.  
-Acredito que tecnologia só faz sentido quando ajuda pessoas de verdade.
+Sou Product Owner com foco em **estratégia, visão de produto e gestão orientada por dados**.  
+Minha missão é simples (mas não fácil): **garantir que tecnologia gere impacto real, mensurável e sustentável.**
 
-- 🎯 Transformo dores em épicos  
-- 🧭 Conduzo discovery com propósito  
-- 🧩 Conecto dev, design e negócio  
-- 🌀 Domino o idioma universal: **priorizações impossíveis**  
-- 📊 Tomo decisões com base em dados (e intuição calibrada)
+Trabalho conectando:
+
+- necessidades de usuários  
+- capacidade técnica  
+- objetivos estratégicos do negócio  
+
+E transformo tudo isso em **produtos que fazem sentido e entregam valor contínuo**.
+
+Tenho experiência em:
+
+- liderança de squads  
+- discovery estruturado  
+- gestão de backlog e roadmaps  
+- mapeamento de problemas reais  
+- análise de dados para tomada de decisão  
+- processos ágeis e alinhamento com stakeholders  
+
+Sou movida por clareza, propósito e colaboração inteligente.
 
 ---
 
-## 🧰 Toolbox do meu dia a dia
+## 🚀 O que eu faço (com excelência)
 
-🛠 **Ferramentas que eu domo:**  
-Jira • Trello • Notion • Confluence • Miro • Figma  
+### 💼 **Estratégia de Produto**
+- Definição de visão clara  
+- Mapeamento de oportunidades  
+- Roadmaps guiados por valor  
 
-📊 **Métricas e análise:**  
-GA4 • Data Studio • Dashboards  
+### 🧩 **Gestão de Backlog**
+- Critérios de aceite sem ambiguidades  
+- Histórias orientadas por comportamento real do usuário  
+- Priorização baseada em impacto e risco  
 
-📚 **Métodos preferidos:**  
+### 🔍 **Discovery Inteligente**
+- Levantamento de dores reais  
+- Testes de hipóteses  
+- Modelos decisórios sustentáveis  
+
+### 📊 **Decisão Guiada por Dados**
+- KPIs  
+- Métricas de adoção  
+- Painéis de acompanhamento  
+- Insights estratégicos  
+
+### 🤝 **Liderança Colaborativa**
+- Facilitação de rituais  
+- Alinhamentos executivos  
+- Comunicação clara e objetiva  
+
+---
+
+## 🛠 Ferramentas e Métodos
+
+**Ferramentas:**  
+Jira • Trello • Notion • Confluence • Figma • Miro  
+
+**Métricas:**  
+Data Studio • GA4 • Dashboards personalizados  
+
+**Métodos:**  
 Scrum • Kanban • OKRs • Double Diamond • Product Discovery  
 
 ---
 
-## 🚀 O que você vai encontrar nos meus repositórios
+## 🎯 O que você encontra nos meus repositórios
 
-📌 Templates de product discovery  
-📌 Documentações e estruturas de backlog  
-📌 Materiais para squads e projetos  
-📌 Conteúdos sobre estratégia e visão de produto  
-📌 Coisas que eu crio para deixar o time mais organizado  
-
----
-
-## 😂 Coisas que eu ouço muito como PO
-
-> **“Isa, cabe mais essa tarefa na sprint?”**  
-Sim! Na *sprint do próximo trimestre*. 😉
-
-> **“É rapidinho…”**  
-Nada é rapidinho. Nada.
-
-> **“Você pode só ver isso aqui?”**  
-Nunca é *só* ver…
+- Documentação de produto clara e objetiva  
+- Templates profissionais de discovery  
+- Estruturas de backlog organizadas  
+- Modelos de visão, estratégia e alinhamento  
+- Ferramentas próprias para trabalho com squads  
 
 ---
 
-## ✨ Mood de Product Owner
+## 📈 Meu estilo como Product Owner
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l3q2zVr6cub8CIkZG/giphy.gif" width="260">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="260">
-</div>
+> **Clareza é poder.**  
+> **Alinhamento é inteligência.**  
+> **Entrega contínua é estratégia.**  
+> **Produto é sobre pessoas — e sobre resolver seus problemas de verdade.**
 
 ---
 
 ## 📫 Vamos conversar?
 
 🔗 Adicione aqui seu **LinkedIn**  
-📧 Seu **e-mail**  
-☕ Ou me chame para falar de produto — eu sempre topo.
+📧 Insira seu **e-mail profissional**
 
 ---
 
 <div align="center">
-  
-### ✨ “Produto bom resolve. Produto excelente transforma.”  
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200">
+
+### ✨ “Produto não é sobre fazer mais.  
+### É sobre fazer melhor, de forma inteligente, eficiente e humana.”  
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQwaWx4bzN2Z2JtZXliZ3JlZ2kxYmR5azl0Y2o1czk5MGs3eWowaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP504/giphy.gif" width="200">
 
 </div>
