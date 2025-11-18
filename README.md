@@ -11,7 +11,6 @@ Product Owner focada em transformar contexto em clareza, backlog em estratégia 
 <!-- Dados completos de repositórios -->
 <p align="center">
   <!-- Estatísticas gerais dos repositórios -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isamariaproduct&theme=github_dark" width="42%" />
 </p>
 
 <p align="center">
