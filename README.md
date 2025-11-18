@@ -30,22 +30,7 @@ Product Owner focada em transformar contexto em clareza, backlog em estratégia 
   <!-- Estatísticas avançadas -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isamariaproduct&theme=tokyonight" />
 
-## 📊 Estatísticas em tempo real do GitHub
-
-### 🔹 Visão geral das contribuições
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isamariaproduct&show_icons=true&include_all_commits=true&count_private=true&hide_title=false)
-
-### 🔹 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isamariaproduct&layout=compact)
-
-### 🔹 Streak de commits
-![GitHub Streak](https://streak-stats.demolab.com?user=isamariaproduct&theme=tokyonight)
-
 ---
-
-
-
-
 
 ## 🚀 O que eu faço como Product Owner
 
