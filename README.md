@@ -1,23 +1,3 @@
-<p align="center">
-
-  <!-- Repositórios em Destaque -->
-  <a href="https://github.com/isamariaproduct?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=isamariaproduct&theme=tokyonight&hide_border=false" />
-  </a>
-
-  <a href="https://github.com/isamariaproduct?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=portfolio&theme=tokyonight&hide_border=false" />
-  </a>
-
-</p>
-
----
-
-<p align="center">
-
-  <!-- Estatísticas avançadas -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isamariaproduct&theme=tokyonight" />
-
 
 
 <!-- Título + apresentação básica -->
@@ -45,6 +25,27 @@ Product Owner focada em transformar contexto em clareza, backlog em estratégia 
 ![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=isamariaproduct&area=true&hide_border=false)
 
 ---
+<p align="center">
+
+  <!-- Repositórios em Destaque -->
+  <a href="https://github.com/isamariaproduct?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=isamariaproduct&theme=tokyonight&hide_border=false" />
+  </a>
+
+  <a href="https://github.com/isamariaproduct?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=portfolio&theme=tokyonight&hide_border=false" />
+  </a>
+
+</p>
+
+---
+
+<p align="center">
+
+  <!-- Estatísticas avançadas -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isamariaproduct&theme=tokyonight" />
+
+
 
 ## 🚀 O que eu faço como Product Owner
 
