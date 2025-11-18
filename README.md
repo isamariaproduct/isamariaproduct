@@ -26,12 +26,12 @@ Product Owner focada em transformar contexto em clareza, backlog em estratégia 
 <p align="center">
 
   <!-- Repositórios em Destaque -->
-  <a href="https://github.com/isamariaproduct?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=isamariaproduct&theme=tokyonight&hide_border=false" />
+  <a href="https://github.com/Projetos_Transparencia?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=projetos_transparenciat&theme=tokyonight&hide_border=false" />
   </a>
 
-  <a href="https://github.com/isamariaproduct?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=portfolio&theme=tokyonight&hide_border=false" />
+  <a href="https://github.com/hamaraisadev?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isamariaproduct&repo=hamaraisadev&theme=tokyonight&hide_border=false" />
   </a>
 
 </p>
