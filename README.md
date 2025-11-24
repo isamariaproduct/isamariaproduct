@@ -19,11 +19,6 @@ Product Owner focada em transformar contexto em clareza, backlog em estratégia 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isamariaproduct&theme=github_dark&utcOffset=3" width="42%" />
 </p>
 
-<p align="center">
-  <!-- Resumo geral -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isamariaproduct&theme=github_dark" width="90%" />
-</p>
-
 
 <p align="center">
 
