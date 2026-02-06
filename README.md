@@ -1,51 +1,11 @@
-<!-- Título + apresentação básica -->
-# 👋 Olá, eu sou a Isa Maria
 
-Product Owner focada em transformar contexto em clareza, backlog em estratégia e entregas em valor real para pessoas e organizações.
+  # Sistema de Análise de Dados
 
-## 📈 Evolução das contribuições
+  This is a code bundle for Sistema de Análise de Dados. The original project is available at https://www.figma.com/design/DIG1MugDu6btqRADlCqByP/Sistema-de-An%C3%A1lise-de-Dados.
 
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=isamariaproduct&area=true&hide_border=false)
+  ## Running the code
 
----
-<!-- Dados completos de repositórios -->
-<p align="center">
-  <!-- Estatísticas gerais dos repositórios -->
-</p>
+  Run `npm i` to install the dependencies.
 
-<p align="center">
-  <!-- Atividade por repositório -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isamariaproduct&theme=github_dark" width="42%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isamariaproduct&theme=github_dark&utcOffset=3" width="42%" />
-</p>
-
-
-<p align="center">
-
-  <!-- Estatísticas avançadas -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isamariaproduct&theme=tokyonight" />
-
----
-
-## 🚀 O que eu faço como Product Owner
-
-- 🔁 **Melhoria contínua de processos** para reduzir retrabalho e aumentar previsibilidade  
-- 🧭 **Discovery constante**, ouvindo usuários, times internos e stakeholders  
-- 📌 **Backlog organizado e vivo**, conectado com objetivos estratégicos  
-- 📊 **Métricas e dashboards** para guiar decisões (não apenas decorar apresentações)  
-- 🤝 **Colaboração ativa** com times de produto, design, engenharia e operação  
-
----
-
-## 🧩 Temas que eu curto trabalhar
-
-- Produtos digitais voltados ao setor público  
-- Transparência, dados e indicadores de desempenho  
-- Experiência do usuário e jornadas de atendimento  
-- Governança de produto, roadmaps e comunicação com stakeholders  
-
----
-
-## ✨ Vamos nos conectar?
-
-Se quiser trocar ideia sobre produto, métricas, processos ou melhorias em serviços públicos digitais, é só chamar.  
+  Run `npm run dev` to start the development server.
+  
